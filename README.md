@@ -6,9 +6,9 @@ cd ...
 ```
 
 ```
-pip install pipx
+docker build ...
 ```
 
 ```
-pipx install poetry
+docker run ...
 ```
